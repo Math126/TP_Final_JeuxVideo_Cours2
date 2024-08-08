@@ -1,0 +1,19 @@
+Font: Angerthas Moria  Style: Normal
+Point Size: 183   SP/PD Ratio: 2,7٪
+
+Characters included: 92/99
+Missing characters: 7
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 91	Hex: 5B	Char [[]
+ID: 93	Hex: 5D	Char []]
+ID: 123	Hex: 7B	Char [{]
+ID: 125	Hex: 7D	Char [}]
+ID: 8203	Hex: 200B	Char [​]
+ID: 8230	Hex: 2026	Char […]
+ID: 9633	Hex: 25A1	Char [□]
+
+Characters excluded from packing:
+----------------------------------------
